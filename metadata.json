@@ -1,0 +1,6 @@
+{
+  "name": "PLU Snap & Sync",
+  "description": "Instant visual produce & bakery PLU lookup by snapping a photo, with real-time backend database sync for mobile retail cashiers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

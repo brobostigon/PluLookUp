@@ -1,0 +1,846 @@
+[
+  {
+    "id": "plu-2",
+    "plu": "2",
+    "name": "Figs",
+    "category": "Produce",
+    "visualDescription": "Small dark purple/brown teardrop fruit",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-5",
+    "plu": "5",
+    "name": "Cherries / King Cherries",
+    "category": "Produce",
+    "visualDescription": "Loose dark red cherries on stems",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-6",
+    "plu": "6",
+    "name": "Cucumber",
+    "category": "Produce",
+    "visualDescription": "Standard unwrapped dark green cucumber",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23f0fdf4%22%2F%3E%3Crect%20x%3D%2225%22%20y%3D%2270%22%20width%3D%22150%22%20height%3D%2245%22%20rx%3D%2222%22%20fill%3D%22%2315803d%22%20stroke%3D%22%2314532d%22%20stroke-width%3D%223%22%2F%3E%3Cline%20x1%3D%2245%22%20y1%3D%2280%22%20x2%3D%22155%22%20y2%3D%2280%22%20stroke%3D%22%234ade80%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%20opacity%3D%220.5%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-8",
+    "plu": "8",
+    "name": "Red Cabbage",
+    "category": "Produce",
+    "visualDescription": "Round deep purple/magenta cabbage head",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-10",
+    "plu": "10",
+    "name": "Grapefruit",
+    "category": "Produce",
+    "visualDescription": "Large yellow-pink/ruby citrus fruit",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-11",
+    "plu": "11",
+    "name": "Limes",
+    "category": "Produce",
+    "visualDescription": "Small bright green oval citrus",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-16",
+    "plu": "16",
+    "name": "Pomegranate",
+    "category": "Produce",
+    "visualDescription": "Round leathery red fruit with crown calyx",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-17",
+    "plu": "17",
+    "name": "Loose Vine Tomatoes",
+    "category": "Produce",
+    "visualDescription": "Red tomatoes attached to green vine stem",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-18",
+    "plu": "18",
+    "name": "Celeriac",
+    "category": "Produce",
+    "visualDescription": "Knobbly beige-brown spherical root vegetable",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-20",
+    "plu": "20",
+    "name": "Butternut Squash",
+    "category": "Produce",
+    "visualDescription": "Tan bell/pear-shaped squash with long neck",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-21",
+    "plu": "21",
+    "name": "Corn on the Cob",
+    "category": "Produce",
+    "visualDescription": "Yellow sweetcorn cob / green husk",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-24",
+    "plu": "24",
+    "name": "Sweet Potatoes",
+    "category": "Produce",
+    "visualDescription": "Loose orange/copper-skinned tapered tuber",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-26",
+    "plu": "26",
+    "name": "Red Apples",
+    "category": "Produce",
+    "visualDescription": "Loose glossy red eating apple",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23fef2f2%22%2F%3E%3Cpath%20d%3D%22M100%2045%20C135%2015%20170%2050%20170%20110%20C170%20170%20135%20185%20100%20185%20C65%20185%2030%20170%2030%20110%20C30%2050%2065%2015%20100%2045%20Z%22%20fill%3D%22%23dc2626%22%20stroke%3D%22%23991b1b%22%20stroke-width%3D%223%22%2F%3E%3Cpath%20d%3D%22M100%2045%20Q%20105%2020%20120%2015%22%20stroke%3D%22%2378350f%22%20stroke-width%3D%225%22%20fill%3D%22none%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-27",
+    "plu": "27",
+    "name": "Tiger Loaf",
+    "category": "Bakery",
+    "visualDescription": "Bloomer loaf with mottled cracked brown rice-paste crust",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23fffbeb%22%2F%3E%3Cellipse%20cx%3D%22100%22%20cy%3D%22100%22%20rx%3D%2285%22%20ry%3D%2250%22%20fill%3D%22%23d97706%22%20stroke%3D%22%2392400e%22%20stroke-width%3D%223%22%2F%3E%3Crect%20x%3D%2250%22%20y%3D%2275%22%20width%3D%2225%22%20height%3D%2216%22%20rx%3D%224%22%20fill%3D%22%23fef08a%22%20stroke%3D%22%2392400e%22%2F%3E%3Crect%20x%3D%2290%22%20y%3D%2270%22%20width%3D%2228%22%20height%3D%2218%22%20rx%3D%224%22%20fill%3D%22%23fef08a%22%20stroke%3D%22%2392400e%22%2F%3E%3Crect%20x%3D%22130%22%20y%3D%2280%22%20width%3D%2222%22%20height%3D%2215%22%20rx%3D%223%22%20fill%3D%22%23fef08a%22%20stroke%3D%22%2392400e%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.089Z"
+  },
+  {
+    "id": "plu-30",
+    "plu": "30",
+    "name": "Bananas",
+    "category": "Produce",
+    "visualDescription": "Loose yellow bananas",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23fef9c3%22%2F%3E%3Cpath%20d%3D%22M50%2040%20C60%2090%20100%20150%20160%20155%20C140%20160%2090%20150%2060%20100%20C45%2075%2040%2045%2050%2040%20Z%22%20fill%3D%22%23facc15%22%20stroke%3D%22%23ca8a04%22%20stroke-width%3D%223%22%2F%3E%3Cpath%20d%3D%22M40%2045%20L65%2035%20L68%2025%20L48%2028%20Z%22%20fill%3D%22%234d7c0f%22%2F%3E%3Ccircle%20cx%3D%22160%22%20cy%3D%22155%22%20r%3D%224%22%20fill%3D%22%23713f12%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-33",
+    "plu": "33",
+    "name": "White Crusty Roll",
+    "category": "Bakery",
+    "visualDescription": "Round/oval crisp golden white roll, lightly floured",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-36",
+    "plu": "36",
+    "name": "Petit Pain",
+    "category": "Bakery",
+    "visualDescription": "Small pale-golden French crusty roll with two diagonal slashes",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-38",
+    "plu": "38",
+    "name": "Stonebaked Panini Roll",
+    "category": "Bakery",
+    "visualDescription": "Elongated pale flatbread sandwich roll",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-42",
+    "plu": "42",
+    "name": "Cheese Roll",
+    "category": "Bakery",
+    "visualDescription": "Roll topped with melted, browned cheddar crust",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-43",
+    "plu": "43",
+    "name": "Mango",
+    "category": "Produce",
+    "visualDescription": "Oval stone fruit with red-green-yellow skin",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-44",
+    "plu": "44",
+    "name": "Galia Melon",
+    "category": "Produce",
+    "visualDescription": "Round golden-yellow melon with fine netted rind",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-45",
+    "plu": "45",
+    "name": "Honeydew Melon",
+    "category": "Produce",
+    "visualDescription": "Smooth bright canary-yellow oval melon",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-48",
+    "plu": "48",
+    "name": "Pain aux Raisin",
+    "category": "Bakery",
+    "visualDescription": "Round flat spiral pastry with custard and raisins",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-49",
+    "plu": "49",
+    "name": "Sandwich Baguette / Small Baguette",
+    "category": "Bakery",
+    "visualDescription": "Half-length crusty French baguette",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-50",
+    "plu": "50",
+    "name": "Loose Pears",
+    "category": "Produce",
+    "visualDescription": "Green/russet teardrop Conference-style pears",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-51",
+    "plu": "51",
+    "name": "Large French Baguette",
+    "category": "Bakery",
+    "visualDescription": "Full-length long crusty French stick with diagonal scores",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-52",
+    "plu": "52",
+    "name": "Pineapple",
+    "category": "Produce",
+    "visualDescription": "Golden diamond-patterned body with spiky crown",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-53",
+    "plu": "53",
+    "name": "Yellow Pepper",
+    "category": "Produce",
+    "visualDescription": "Loose blocky glossy yellow bell pepper",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-54",
+    "plu": "54",
+    "name": "Maple & Pecan Plait",
+    "category": "Bakery",
+    "visualDescription": "Braided lattice pastry with maple glaze and pecan halves",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-55",
+    "plu": "55",
+    "name": "Apple Turnover",
+    "category": "Bakery",
+    "visualDescription": "Triangular puff pastry parcel dusted with sugar",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-56",
+    "plu": "56",
+    "name": "Ginger",
+    "category": "Produce",
+    "visualDescription": "Loose pale tan branching root hands",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-58",
+    "plu": "58",
+    "name": "Aubergine",
+    "category": "Produce",
+    "visualDescription": "Glossy deep purple teardrop vegetable with green cap",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23faf5ff%22%2F%3E%3Cpath%20d%3D%22M100%2045%20C125%2045%20155%2090%20155%20140%20C155%20180%20130%20190%20100%20190%20C70%20190%2045%20180%2045%20140%20C45%2090%2075%2045%20100%2045%20Z%22%20fill%3D%22%233b0764%22%20stroke%3D%22%232e1065%22%20stroke-width%3D%223%22%2F%3E%3Cpath%20d%3D%22M100%2045%20L90%2025%20L100%2038%20L80%2032%20L95%2045%20L90%2055%20L100%2048%20L110%2055%20L105%2045%20L120%2032%20L100%2038%20L110%2025%20Z%22%20fill%3D%22%2315803d%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-62",
+    "plu": "62",
+    "name": "Cashew Nuts",
+    "category": "Nuts",
+    "visualDescription": "Kidney-shaped pale creamy nut",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-64",
+    "plu": "64",
+    "name": "White Cabbage",
+    "category": "Produce",
+    "visualDescription": "Round pale green smooth cabbage head",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-67",
+    "plu": "67",
+    "name": "Almonds",
+    "category": "Nuts",
+    "visualDescription": "Teardrop brown nut with grooved skin",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-68",
+    "plu": "68",
+    "name": "Courgette",
+    "category": "Produce",
+    "visualDescription": "Slender dark green cylinder with woody stem cap",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-69",
+    "plu": "69",
+    "name": "Pistachios",
+    "category": "Nuts",
+    "visualDescription": "Split beige shell showing green nut inside",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-70",
+    "plu": "70",
+    "name": "All Butter Croissant",
+    "category": "Bakery",
+    "visualDescription": "Plain golden flaky crescent pastry",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-71",
+    "plu": "71",
+    "name": "Vegetable Pizza Slice",
+    "category": "Bakery",
+    "visualDescription": "Rectangular bakery pizza slice with mixed veg",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-72",
+    "plu": "72",
+    "name": "Cheese Twist",
+    "category": "Bakery",
+    "visualDescription": "Long braided/twisted puff pastry strip with melted cheese",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-75",
+    "plu": "75",
+    "name": "Margherita Pizza Slice",
+    "category": "Bakery",
+    "visualDescription": "Rectangular bakery pizza slice with tomato and white cheddar/mozzarella",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-79",
+    "plu": "79",
+    "name": "Swede",
+    "category": "Produce",
+    "visualDescription": "Round root vegetable with purple top and tan bottom",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-81",
+    "plu": "81",
+    "name": "All Butter Pain au Chocolat",
+    "category": "Bakery",
+    "visualDescription": "Rectangular flaky pastry with two dark chocolate bars inside",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-82",
+    "plu": "82",
+    "name": "Persimmon / Sharon Fruit",
+    "category": "Produce",
+    "visualDescription": "Glossy bright orange tomato-shaped fruit",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-83",
+    "plu": "83",
+    "name": "Red Pepper",
+    "category": "Produce",
+    "visualDescription": "Loose blocky glossy red bell pepper",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-92",
+    "plu": "92",
+    "name": "Jam Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Round sugar-dusted Berliner doughnut with red jam filling spot",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-95",
+    "plu": "95",
+    "name": "Baking Potatoes",
+    "category": "Produce",
+    "visualDescription": "Large loose buff-skinned russet/white potatoes",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-98",
+    "plu": "98",
+    "name": "Seasonal Squash",
+    "category": "Produce",
+    "visualDescription": "Mixed ornamental/autumn squash varieties",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-104",
+    "plu": "104",
+    "name": "Low GI Roll",
+    "category": "Bakery",
+    "visualDescription": "Small dark dense multiseed roll",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-118",
+    "plu": "118",
+    "name": "Toffee Yum Yum",
+    "category": "Bakery",
+    "visualDescription": "Twisted rectangular glazed pastry strip with toffee filling",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-125",
+    "plu": "125",
+    "name": "Pretzel",
+    "category": "Bakery",
+    "visualDescription": "Dark mahogany lye knot topped with coarse white salt crystals",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23fffbeb%22%2F%3E%3Cpath%20d%3D%22M100%20150%20C50%20150%2025%20100%2035%2060%20C45%2020%2090%2030%20100%2080%20C110%2030%20155%2020%20165%2060%20C175%20100%20150%20150%20100%20150%20Z%22%20fill%3D%22%2378350f%22%20stroke%3D%22%23451a03%22%20stroke-width%3D%226%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-127",
+    "plu": "127",
+    "name": "Stonebaked White Roll",
+    "category": "Bakery",
+    "visualDescription": "Rustic square/oval heavily floured artisan white roll",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-136",
+    "plu": "136",
+    "name": "Sourdough Boule",
+    "category": "Bakery",
+    "visualDescription": "Round rustic crusty loaf with scored flour-dusted top",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-138",
+    "plu": "138",
+    "name": "Assorted Cookies",
+    "category": "Bakery",
+    "visualDescription": "Large round soft-baked chocolate chip / triple choc cookies",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-141",
+    "plu": "141",
+    "name": "Assorted Muffin",
+    "category": "Bakery",
+    "visualDescription": "Large domed paper-cased muffin: blueberry, double choc, or lemon",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-143",
+    "plu": "143",
+    "name": "Bramley Apples",
+    "category": "Produce",
+    "visualDescription": "Large broad flat-round green cooking apple",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-146",
+    "plu": "146",
+    "name": "Ring Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Iced ring doughnut—pink strawberry or chocolate icing with sprinkles",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-147",
+    "plu": "147",
+    "name": "Watermelon",
+    "category": "Produce",
+    "visualDescription": "Large dark green melon with light green jagged stripes",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-148",
+    "plu": "148",
+    "name": "Choc Hazelnut Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Round doughnut topped/filled with chocolate hazelnut and nibs",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-149",
+    "plu": "149",
+    "name": "Filled Ring Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Glazed/iced ring doughnut with inner filling",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-158",
+    "plu": "158",
+    "name": "Halloween Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Seasonal themed iced ring/filled doughnut",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-159",
+    "plu": "159",
+    "name": "Clementines",
+    "category": "Produce",
+    "visualDescription": "Loose small easy-peeler orange citrus",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-161",
+    "plu": "161",
+    "name": "Cantaloupe Melon",
+    "category": "Produce",
+    "visualDescription": "Round grey-green netted rind with dark green vertical stripes",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-170",
+    "plu": "170",
+    "name": "Chocolate Hazelnut Croissant",
+    "category": "Bakery",
+    "visualDescription": "Crescent croissant drizzled with dark chocolate stripes and chopped nuts",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-172",
+    "plu": "172",
+    "name": "Scottish Morning Roll",
+    "category": "Bakery",
+    "visualDescription": "Soft round batch roll with dark well-fired/flour-dusted top",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-239",
+    "plu": "239",
+    "name": "Ciabatta Roll",
+    "category": "Bakery",
+    "visualDescription": "Rectangular/slipper-shaped pale Italian roll with flour dust",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-244",
+    "plu": "244",
+    "name": "Pastel de Nata",
+    "category": "Bakery",
+    "visualDescription": "Small round flaky pastry cup with blistered dark-spotted custard top",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-249",
+    "plu": "249",
+    "name": "Organic Cucumber",
+    "category": "Produce",
+    "visualDescription": "Film-wrapped cucumber with green Organic label band",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-286",
+    "plu": "286",
+    "name": "Cherry & Custard Lattice",
+    "category": "Bakery",
+    "visualDescription": "Rectangular criss-cross puff pastry showing dark red cherry and yellow custard",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-300",
+    "plu": "300",
+    "name": "Ancient Grain Roll",
+    "category": "Bakery",
+    "visualDescription": "Rustic roll coated in mixed grains and seeds",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-317",
+    "plu": "317",
+    "name": "Spring Onions",
+    "category": "Produce",
+    "visualDescription": "Bunched white bulbs with long green tops",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-320",
+    "plu": "320",
+    "name": "Organic Beetroot",
+    "category": "Produce",
+    "visualDescription": "Dark purple-red root bulbs",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-322",
+    "plu": "322",
+    "name": "Red Spring Onions",
+    "category": "Produce",
+    "visualDescription": "Bunched purple-red bulbs with green tops",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-323",
+    "plu": "323",
+    "name": "Chocolate Brownie",
+    "category": "Bakery",
+    "visualDescription": "Dense dark chocolate square bake",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-335",
+    "plu": "335",
+    "name": "Garlic",
+    "category": "Produce",
+    "visualDescription": "Loose white/purple papery garlic bulb",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-342",
+    "plu": "342",
+    "name": "Loose Carrots",
+    "category": "Produce",
+    "visualDescription": "Loose orange tapered carrots",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-343",
+    "plu": "343",
+    "name": "Crusty Sourdough Rye Bloomer",
+    "category": "Bakery",
+    "visualDescription": "Dark elongated rye sourdough loaf with diagonal cuts",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-355",
+    "plu": "355",
+    "name": "Asparagus",
+    "category": "Produce",
+    "visualDescription": "Bunched green spears with scaly tips",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-360",
+    "plu": "360",
+    "name": "Jaffa Doughnut",
+    "category": "Bakery",
+    "visualDescription": "Chocolate-topped doughnut with orange filling",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-363",
+    "plu": "363",
+    "name": "Cauliflower",
+    "category": "Produce",
+    "visualDescription": "White floret head surrounded by green leaves",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-365",
+    "plu": "365",
+    "name": "Medium Avocado",
+    "category": "Produce",
+    "visualDescription": "Pebbled dark green/black pear-shaped fruit, standard size",
+    "imageUrl": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23ecfdf5%22%2F%3E%3Cpath%20d%3D%22M100%2025%20C130%2025%20160%2070%20165%20125%20C170%20170%20140%20185%20100%20185%20C60%20185%2030%20170%2035%20125%20C40%2070%2070%2025%20100%2025%20Z%22%20fill%3D%22%2314532d%22%20stroke%3D%22%23052e16%22%20stroke-width%3D%223%22%2F%3E%3Cpath%20d%3D%22M100%2035%20C125%2035%20150%2075%20155%20125%20C160%20165%20135%20175%20100%20175%20C65%20175%2040%20165%2045%20125%20C50%2075%2075%2035%20100%2035%20Z%22%20fill%3D%22%2384cc16%22%2F%3E%3Ccircle%20cx%3D%22100%22%20cy%3D%22125%22%20r%3D%2230%22%20fill%3D%22%2378350f%22%2F%3E%3C%2Fsvg%3E",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-366",
+    "plu": "366",
+    "name": "Large Avocado",
+    "category": "Produce",
+    "visualDescription": "Pebbled dark green/black pear-shaped fruit, extra-large size",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-368",
+    "plu": "368",
+    "name": "Cheese Loaf",
+    "category": "Bakery",
+    "visualDescription": "Large loaf topped with melted baked cheese crust",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-369",
+    "plu": "369",
+    "name": "Ancient Grain Loaf",
+    "category": "Bakery",
+    "visualDescription": "Dark oblong loaf heavily coated in mixed seeds and grains",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-371",
+    "plu": "371",
+    "name": "Lemons",
+    "category": "Produce",
+    "visualDescription": "Loose bright yellow oval citrus with pointed ends",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-374",
+    "plu": "374",
+    "name": "Matice Melon",
+    "category": "Produce",
+    "visualDescription": "Green/mottled specialty melon",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-381",
+    "plu": "381",
+    "name": "Sweet Buns",
+    "category": "Bakery",
+    "visualDescription": "Assorted iced/spiced sweet bakery buns",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-384",
+    "plu": "384",
+    "name": "Snack Tomatoes",
+    "category": "Produce",
+    "visualDescription": "Small loose cherry/plum snacking tomatoes",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-389",
+    "plu": "389",
+    "name": "Almond Croissant",
+    "category": "Bakery",
+    "visualDescription": "Flattened croissant topped with sliced flaked almonds and icing sugar",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-395",
+    "plu": "395",
+    "name": "Low GI Multiseed Cob",
+    "category": "Bakery",
+    "visualDescription": "Round domed dark seeded cob loaf",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-402",
+    "plu": "402",
+    "name": "Christmas Muffin",
+    "category": "Bakery",
+    "visualDescription": "Seasonal festive topped muffin",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-648",
+    "plu": "648",
+    "name": "Grain Loaf",
+    "category": "Bakery",
+    "visualDescription": "Wholegrain seeded loaf",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  },
+  {
+    "id": "plu-717",
+    "plu": "717",
+    "name": "Goats Cheese & Pesto Focaccia",
+    "category": "Bakery",
+    "visualDescription": "Flat dimpled square bread with green pesto and white goat cheese rounds",
+    "active": true,
+    "updatedAt": "2026-10-20T11:13:55.090Z"
+  }
+]

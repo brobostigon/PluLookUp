@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+  img, video, canvas {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@keyframes scan-laser {
+  0% { transform: translateY(0%); opacity: 0.8; }
+  50% { transform: translateY(220px); opacity: 1; }
+  100% { transform: translateY(0%); opacity: 0.8; }
+}
+
+.animate-scan-laser {
+  animation: scan-laser 2.2s ease-in-out infinite;
+}
+
